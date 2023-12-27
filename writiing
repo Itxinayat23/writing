@@ -1,0 +1,59 @@
+<html>
+<head>
+
+<title> new writing </title>
+<style>
+
+.mybook {color:red}
+
+</style>
+
+</head>
+<marquee behavior="scroll" direction="left">
+new paragraph </marquee>
+<body style=" background-color:lightblue">
+
+
+<h1 style="color:blue">new writing paragraph</h1>
+
+
+<p><i class="mybook" >Read Regularly: Exposure to well-written content can improve your vocabulary, sentence structure, and overall writing style. Read a variety of 
+
+materials, including books, articles, and essays</i></p>
+
+
+
+
+
+<img src="E:\df7419f0-b43f-48c5-bacc-0314bd58eefb.jpg"</img>
+
+<video>
+
+<source src="https://youtu.be/WBe-vQ8sRdI?si=7liBiN37AH_BvQI5">
+
+</video>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBe-vQ8sRdI?si=7liBiN37AH_BvQI5" title="YouTube video player" frameborder="0" allow="accelerometer; 
+
+autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
